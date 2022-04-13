@@ -1,0 +1,299 @@
+[
+	{
+		"Hour": "00:15",
+		"Data": [
+            {
+				"Event": "Kutum/Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kzarka/Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kzarka/Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+            {
+				"Event": "Nouver/Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            }
+        ]
+    },
+	{
+		"Hour": "02:00",
+		"Data": [
+            {
+				"Event": "Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Offin",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+            {
+				"Event": "Kzarka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            }
+        ]
+    },
+	{
+		"Hour": "05:00",
+		"Data": [
+            {
+				"Event": "Kzarka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kzarka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kzarka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+            {
+				"Event": "Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            }
+        ]
+    },
+	{
+		"Hour": "09:00",
+		"Data": [
+            {
+				"Event": "Kzarka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+            {
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            }
+        ]
+    },
+	{
+		"Hour": "12:00",
+		"Data": [
+			{
+				"Event": "Offin",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "-",
+                "Data": ""
+            },
+			{
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kzarka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            }
+        ]
+    },
+	{
+		"Hour": "16:00",
+		"Data": [
+			{
+				"Event": "Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kutum/Offin",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kzarka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Quint/Muraka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Vell",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            }
+        ]
+    },
+	{
+		"Hour": "19:00",
+		"Data": [
+			{
+				"Event": "Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Vell",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kzarka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kzarka/Karanda",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Garmoth",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            }
+        ]
+    },
+	{
+		"Hour": "22:15",
+		"Data": [
+            {
+				"Event": "Kzarka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Garmoth",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Karanda/Kzarka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Garmoth",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "Kzarka/Kutum",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "-",
+                "Data": ""
+            },
+            {
+				"Event": "Kzarka/Nouver",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            }
+        ]
+    },
+	{
+		"Hour": "23:15",
+		"Data": [
+            {
+				"Event": "-",
+                "Data": " "
+            },
+			{
+				"Event": "",
+                "Data": " "
+            },
+			{
+				"Event": "Quint/Muraka",
+                "Data": "[Duration:0h15m] [Difficulty:Normal] [WayToEnter:InGameBossField] "
+            },
+			{
+				"Event": "-",
+                "Data": " "
+            },
+			{
+				"Event": "-",
+                "Data": " "
+            },
+			{
+				"Event": "-",
+                "Data": " "
+            },
+            {
+				"Event": "-",
+                "Data": " "
+            }
+        ]
+    }
+]
