@@ -4064,7 +4064,7 @@ img.rounded {
 }
 
 .nk-navbar .nk-nav .nk-drop-item > a::after {
-    content: "";
+    /*content: "";
     position: absolute;
     display: block;
     bottom: 0;
@@ -4078,7 +4078,7 @@ img.rounded {
     opacity: .4;
     -webkit-transition: .2s opacity;
     -o-transition: .2s opacity;
-    transition: .2s opacity;
+    transition: .2s opacity;*/
 }
 
 .nk-navbar .nk-nav .nk-drop-item > a:hover::after,
